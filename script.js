@@ -16,6 +16,7 @@
 const iloczyn = (num1, num2, num3) => num1 * num2 * num3;
 
 let a = 0; //test commit to github repository
+let b = 0; //test commit to github repository test2
 
 let wynikIloczynu = iloczyn(3, 10, 2);
 console.log(wynikIloczynu);
